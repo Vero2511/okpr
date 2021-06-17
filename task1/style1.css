@@ -1,0 +1,16 @@
+/* Гарнитура шрифта - Arial
+Размер текста заголовка 1-уровня - 34px
+Размер текста заголовков 2-уровня - 24px
+Размер текста абзацев - 14px
+Размер текста списков - 14px */
+body  {font-family: Arial}
+
+
+h1 {font-size: 34pt;}
+h2 {font-size: 24pt;}
+p {font-size: 14pt;}
+a {font-weight: bold;}
+ul {font-style: oblique;}
+li {font-size: 14pt;}
+li a { text-decoration: none; color: black;}
+
