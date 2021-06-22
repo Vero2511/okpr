@@ -1,0 +1,11 @@
+#d1 {background-color: yellow;}
+#d2 {background-color: #ffd700;}
+#d3 {background-color: #daa520;}
+#d4 {background-color: #ffa500;}
+
+#red {color: red; border-style: dotted; width: 120px; height: 20px; padding: 10px; border-width: thick;}
+#blue {color: blue;border-style: dashed; width: 270px; height: 40px; border-width: thick}
+#green { color: green; border-style: solid;width: 150px; height: 40px; border-width: thick}
+#magenta {color: magenta; border-style: double;width: 120px; height: 30px; border-width: thick}
+
+h1 {color: blue; text-align: center;}

@@ -1,0 +1,23 @@
+/*Размеры текста:
+
+Размер текста заголовка 1-уровня - 34px
+Размер текста заголовка 2-уровня - 24px
+Размер текста абзаца - 14px
+Размер текста списка - 14px
+6. Цвет:
+
+основной текст - green
+фон - красный 234, зеленый 208, синий 191
+h1 - красный 0%, зеленый 50%, синий 0%
+h2 - 00ff00, фон - yellow*/
+
+body {background-color: rgb(234,208,191);}
+h1 {font-size: 34px; color: rgb(0%, 50%, 0%); line-height: 3em; margin: 0; padding: 0;}
+h2{font-size: 24px; color:#00ff00; background-color: yellow; line-height: 2em; font-weight: bolder; text-transform: uppercase;}
+p {font-size: 14px; color: rgb(0%, 50%, 0%); text-indent: 2em;}
+li {font-size: 14px; color: green;}
+h1,h2 {text-align: center;}
+
+span {background-color: yellow;}
+ul {font-style: oblique;}
+a {color: blue;}

@@ -1,0 +1,29 @@
+/*Раздел "О школе": фон - #FFFF00, заголовок - red
+Раздел "Основные цели школы": фон - #FFD700, заголовок - blue
+Раздел "Программа": фон - #DAA520, заголовок - green
+Раздел "Контакты": фон - #FFA500, заголовок - purple
+6. Гиперссылки:
+
+ГУ-ВШЭ: цвет непосещенной ссылки - red, цвет посещенной ссылки - teal
+сайты летней школы: цвет непосещенной ссылки - red, цвет посещенной ссылки - green*/
+
+#red {background-color: #ffff0f; color: red;}
+#blue {background-color: #ffd700; color: blue;}
+#green {background-color: #daa520; color: green;}
+#purple {background-color: #ffa500; color: purple;}
+ 
+
+h1 {color: blue; text-align: center;}
+#block1 {background-color: yellow;}
+#block2 {background-color: #ffd700;}
+#block3 {background-color: #daa520;}
+#block4 {background-color: #ffa500;}
+p.biss:first-letter {color: red; font-size: 200%;}
+#contact1 {text-align: center;}
+
+li {font-style: oblique;}
+
+a.link1:link {color: red }
+a.link1:visited {color: teal}
+a.link2:link {color: red} 
+a.link2:visited {color: green} 

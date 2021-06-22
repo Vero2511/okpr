@@ -1,0 +1,20 @@
+/* Гарнитура шрифта - Arial
+Размер текста заголовка 1-уровня - 34px
+Размер текста заголовков 2-уровня - 24px высота строки - 2em
+Размер текста абзацев - 14px
+Размер текста списков - 14px */
+body  {font-family: Arial}
+
+h1 {font-size: 34pt;}
+h2 {font-size: 24pt; line-height: 2em; letter-spacing: 1em; text-transform: uppercase; font-weight: bolder;}
+p {font-size: 14pt;text-indent: 2em;}
+li {font-size: 14pt;}
+ul {font-style: oblique;}
+
+h1,h2 {text-align: center; word-spacing: 1em;}
+
+span {font-weight: bolder; font-style: oblique}
+
+span { font-style: normal;}
+a {text-decoration: none; color: blue;}
+img {vertical-align: super;}
