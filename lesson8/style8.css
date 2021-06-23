@@ -1,0 +1,9 @@
+body{margin: 0px; padding:0px; background-color:darkolivegreen; color: rgb(61, 41, 5);}
+#content {margin: 0 auto; width: 800px; padding: 5px; background-color: #c7d8c1;}
+h2{text-align: center;}
+a{color: black;}
+#leftsp{float: left; width: 140px; padding: 10px; margin: 10px; background-color: #857650;}
+#leftin{margin: 0 auto; width: 800px; background-color:#c7d8c1;}
+#main{float: right; width: 600px; padding: 10px; background-color: #c7d8c1;}
+#bottom{clear: both; background-color: #857650; text-align: center; color: black; font-weight: bold;}
+#head{height: 100px;padding: 5px;text-align: center; background-color: #857650; color: #30260e;}

@@ -1,11 +1,20 @@
-#d1 {background-color: yellow;}
-#d2 {background-color: #ffd700;}
-#d3 {background-color: #daa520;}
-#d4 {background-color: #ffa500;}
+#d1 {background-color: yellow; border-color: yellow ;}
+#d2 {background-color: #ffd700; border-color: #ffd700}
+#d3 {background-color: #daa520; border-color: #daa520;}
+#d4 {background-color: #ffa500; border-color: #ffa500}
+#d1,#d2,#d3,#d4 { margin: 50px; border-style: solid; border-width: 30px; margin-left: 0px; margin-right: 0px; margin-top: 20px; margin-bottom: 20px; border-left-width: 0px;}
 
-#red {color: red; border-style: dotted; width: 120px; height: 20px; padding: 10px; border-width: thick;}
-#blue {color: blue;border-style: dashed; width: 270px; height: 40px; border-width: thick}
-#green { color: green; border-style: solid;width: 150px; height: 40px; border-width: thick}
-#magenta {color: magenta; border-style: double;width: 120px; height: 30px; border-width: thick}
+#red {color: red; border-style: dotted; width: 120px; height: 20px; padding: 10px; margin: 50px;  margin-top: 10px; margin-bottom: 0px;}
+#blue {color: blue;border-style: dashed; width: 270px; height: 40px; margin: 50px;  margin-top: 20px; margin-bottom: 0px;}
+#green { color: green; border-style: solid;width: 150px; height: 40px;margin: 50px; margin-bottom: 0px; margin-top: 5px;}
+#magenta {color: magenta; border-style: double;width: 120px; height: 30px; margin: 50px;  margin-bottom: 0px; margin-top: 5px;}
+#red, #blue, #green, #magenta {padding-top: 15px; padding-bottom: 5px; border-width: thick;  }
 
 h1 {color: blue; text-align: center;}
+p {margin-top: 0px; margin-bottom: 0px; margin-left: 100px; font-weight: bold;}
+ul {margin-top: 0px; margin-left: 50px;}
+#contacts {margin:  0px;}
+
+li {font-style: oblique;}
+
+p.email {background-color: red; color: blue;text-align: center; margin-left: 450px; margin-right: 410px; border-color: red; border-width: 20px; border-style: solid;}
